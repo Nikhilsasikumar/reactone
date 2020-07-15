@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/reactone/static/css/main.b5fcc263.chunk.css",
-    "main.js": "/reactone/static/js/main.da0918a4.chunk.js",
-    "main.js.map": "/reactone/static/js/main.da0918a4.chunk.js.map",
+    "main.css": "/reactone/static/css/main.79e1a275.chunk.css",
+    "main.js": "/reactone/static/js/main.857f3cda.chunk.js",
+    "main.js.map": "/reactone/static/js/main.857f3cda.chunk.js.map",
     "runtime-main.js": "/reactone/static/js/runtime-main.f3931040.js",
     "runtime-main.js.map": "/reactone/static/js/runtime-main.f3931040.js.map",
-    "static/js/2.e91e3c6d.chunk.js": "/reactone/static/js/2.e91e3c6d.chunk.js",
-    "static/js/2.e91e3c6d.chunk.js.map": "/reactone/static/js/2.e91e3c6d.chunk.js.map",
+    "static/js/2.e5cf312a.chunk.js": "/reactone/static/js/2.e5cf312a.chunk.js",
+    "static/js/2.e5cf312a.chunk.js.map": "/reactone/static/js/2.e5cf312a.chunk.js.map",
     "index.html": "/reactone/index.html",
-    "precache-manifest.0de3fef85a4c1ba3238525f782e2ebd3.js": "/reactone/precache-manifest.0de3fef85a4c1ba3238525f782e2ebd3.js",
+    "precache-manifest.52e53e2e0b9f04230d81db83f3d9278a.js": "/reactone/precache-manifest.52e53e2e0b9f04230d81db83f3d9278a.js",
     "service-worker.js": "/reactone/service-worker.js",
-    "static/css/main.b5fcc263.chunk.css.map": "/reactone/static/css/main.b5fcc263.chunk.css.map",
-    "static/js/2.e91e3c6d.chunk.js.LICENSE.txt": "/reactone/static/js/2.e91e3c6d.chunk.js.LICENSE.txt"
+    "static/css/main.79e1a275.chunk.css.map": "/reactone/static/css/main.79e1a275.chunk.css.map",
+    "static/js/2.e5cf312a.chunk.js.LICENSE.txt": "/reactone/static/js/2.e5cf312a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f3931040.js",
-    "static/js/2.e91e3c6d.chunk.js",
-    "static/css/main.b5fcc263.chunk.css",
-    "static/js/main.da0918a4.chunk.js"
+    "static/js/2.e5cf312a.chunk.js",
+    "static/css/main.79e1a275.chunk.css",
+    "static/js/main.857f3cda.chunk.js"
   ]
 }
