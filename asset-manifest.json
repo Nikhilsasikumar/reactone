@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/reactone/static/css/main.5f361e03.chunk.css",
-    "main.js": "/reactone/static/js/main.bbb4071e.chunk.js",
-    "main.js.map": "/reactone/static/js/main.bbb4071e.chunk.js.map",
+    "main.css": "/reactone/static/css/main.a0131bac.chunk.css",
+    "main.js": "/reactone/static/js/main.d97c8153.chunk.js",
+    "main.js.map": "/reactone/static/js/main.d97c8153.chunk.js.map",
     "runtime-main.js": "/reactone/static/js/runtime-main.f3931040.js",
     "runtime-main.js.map": "/reactone/static/js/runtime-main.f3931040.js.map",
     "static/js/2.6e019a0f.chunk.js": "/reactone/static/js/2.6e019a0f.chunk.js",
     "static/js/2.6e019a0f.chunk.js.map": "/reactone/static/js/2.6e019a0f.chunk.js.map",
     "index.html": "/reactone/index.html",
-    "precache-manifest.37f9449e03730cc9955a69255ebf310d.js": "/reactone/precache-manifest.37f9449e03730cc9955a69255ebf310d.js",
+    "precache-manifest.b401ae873acb60d2e2b7d71eedb5eeb4.js": "/reactone/precache-manifest.b401ae873acb60d2e2b7d71eedb5eeb4.js",
     "service-worker.js": "/reactone/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/reactone/static/css/main.5f361e03.chunk.css.map",
+    "static/css/main.a0131bac.chunk.css.map": "/reactone/static/css/main.a0131bac.chunk.css.map",
     "static/js/2.6e019a0f.chunk.js.LICENSE.txt": "/reactone/static/js/2.6e019a0f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f3931040.js",
     "static/js/2.6e019a0f.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.bbb4071e.chunk.js"
+    "static/css/main.a0131bac.chunk.css",
+    "static/js/main.d97c8153.chunk.js"
   ]
 }
