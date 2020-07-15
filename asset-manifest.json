@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactone/static/css/main.5f361e03.chunk.css",
+    "main.js": "/reactone/static/js/main.c738ac65.chunk.js",
+    "main.js.map": "/reactone/static/js/main.c738ac65.chunk.js.map",
+    "runtime-main.js": "/reactone/static/js/runtime-main.f3931040.js",
+    "runtime-main.js.map": "/reactone/static/js/runtime-main.f3931040.js.map",
+    "static/js/2.73943485.chunk.js": "/reactone/static/js/2.73943485.chunk.js",
+    "static/js/2.73943485.chunk.js.map": "/reactone/static/js/2.73943485.chunk.js.map",
+    "index.html": "/reactone/index.html",
+    "precache-manifest.e4f0b9a6952fdf82f4bfb6cfb6aaac49.js": "/reactone/precache-manifest.e4f0b9a6952fdf82f4bfb6cfb6aaac49.js",
+    "service-worker.js": "/reactone/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/reactone/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.73943485.chunk.js.LICENSE.txt": "/reactone/static/js/2.73943485.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/reactone/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3931040.js",
+    "static/js/2.73943485.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c738ac65.chunk.js"
+  ]
+}
