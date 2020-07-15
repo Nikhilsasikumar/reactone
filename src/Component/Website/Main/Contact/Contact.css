@@ -1,0 +1,39 @@
+.Contact {
+  position: fixed;
+  background-color: #0f5658;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+.Contact-Section {
+  margin: 0;
+  padding: 10px;
+  background-color: #0f5658;
+  padding: 18px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px #00000066;
+  height: 100%;
+  text-align: center;
+}
+.Contact-Section input {
+  width: 50%;
+  height: 30px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  background: #96b0b1fa;
+  border: 1px solid rgb(9, 86, 88);
+}
+h1 {
+  color: #ffffff;
+}
+button {
+  width: 150px;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  color: #ffffff;
+  background: #282c34a3;
+  background-color: #282c34;
+}

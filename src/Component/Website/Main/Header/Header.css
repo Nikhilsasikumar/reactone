@@ -7,8 +7,11 @@
   .Header-Section {
       margin: 0;
       padding: 10px;
-      color: #ffffff;
-      text-transform: capitalize;
+  }
+  .Header-Section a{
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: capitalize;
   }
   .Header-Section > ul li{
       display: inline;
@@ -18,5 +21,6 @@
   .Header-Section > ul li:hover{
     border-bottom: 3px solid #ffffff;
   }
+  
   
   
