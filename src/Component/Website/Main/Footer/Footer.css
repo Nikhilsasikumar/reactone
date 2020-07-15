@@ -1,0 +1,17 @@
+.Footer {
+    position: absolute;
+    background-color: #282c34;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    bottom: 0;
+    width: 100%;
+  }
+  .Footer-Section {
+      margin: 0;
+      padding: 10px;
+      color: #ffffff;
+      text-transform: capitalize;
+  }
+  
+  
